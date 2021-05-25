@@ -1,2 +1,2 @@
-# hello-world
-My first C program
+# School-C
+My every C programs given in school.
