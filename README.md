@@ -1,2 +1,2 @@
 # School-C
-Every C programs given in my school.
+Every C programs I've done in my school.
