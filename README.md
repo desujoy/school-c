@@ -1,5 +1,5 @@
 # School-C
-This is a collection of C programs that I have done in my school. These programs are mostly based on the topics covered in the syllabus of the CBSE board for class 11 and 12. Some of the topics include:
+This is a collection of C programs that I have done in my school. These programs are mostly based on the topics covered in the syllabus of the WBCHSE board for class 11 and 12. Some of the topics include:
 
 - Arrays
 - Pointers
